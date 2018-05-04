@@ -1,24 +1,6 @@
-# README
+# Rails + Webpacker + React Starter Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Original tutorial: [here](https://x-team.com/blog/get-in-full-stack-shape-with-rails-5-1-webpacker-and-reactjs/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To start the local server:
+foreman start -f Procfile.dev -p 3000
